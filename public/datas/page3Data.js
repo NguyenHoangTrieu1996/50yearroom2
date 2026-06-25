@@ -141,7 +141,16 @@ window.datas.page3 = [
         desc2: "Children’s Hospital."
     },
 
-  
+     {
+        img: "./public/images/page3/232.jpg",
+        desc1: "Bệnh viện Phụ sản - Nhi quốc tế Hạnh phúc",
+        desc2: "Hanh Phuc International Maternity and Pediatric Hospital"
+    },
+     {
+        img: "./public/images/page3/233.jpg",
+        desc1: "Bệnh viện Quốc tế Becamex tỉnh Bình Dương",
+        desc2: "Becamex International Hospital in Binh Duong Province"
+    },
 
     {
         img: "./public/images/page3/234.jpg",
@@ -182,12 +191,6 @@ window.datas.page3 = [
         img: "./public/images/page3/239.jpg",
         desc1: "Xe sách lưu động phục vụ nhân dân ngoại thành, năm 1995.",
         desc2: "Mobile book vehicle serving suburban residents, 1995."
-    },
-
-    {
-        img: "./public/images/page3/240.jpg",
-        desc1: "Thành lập Đại học Quốc gia Thành phố Hồ Chí Minh ngày 27/01/1995, đóng vai trò đầu tàu giáo dục đại học.",
-        desc2: "The establishment of Vietnam National University Ho Chi Minh City on January 27, 1995 as a leading higher education institution."
     },
 
     {
@@ -243,6 +246,21 @@ window.datas.page3 = [
         desc1: "Giờ ngoại khóa của học sinh Trường chuyên biệt Bình Minh.",
         desc2: "Extracurricular activities at Binh Minh Special School."
     },
+    {
+        img: "./public/images/page3/250.jpg",
+        desc1: "Kỷ lục Châu Á, năm 2018",
+        desc2: "Asia Record, 2018"
+    },
+     {
+        img: "./public/images/page3/251.jpg",
+        desc1: "Thế giới lần II, năm 2024",
+        desc2: "The 2nd World, 2024"
+    },
+    {
+        img: "./public/images/page3/252.jpg",
+        desc1: "Phục vụ Triển lãm kỷ niệm 80 năm Ngày Quốc khánh (02/9/1945 - 02/9/2025)",
+        desc2: "Serving the Exhibition on the 80th anniversary of National Day (September 2, 1945 - September 2, 2025)"
+    },
 
     {
         h2: `
@@ -252,73 +270,73 @@ window.datas.page3 = [
     },
 
     {
-        img: "./public/images/page3/251.jpg",
+        img: "./public/images/page3/253.jpg",
         desc1: "Thăm thương binh tại tỉnh Sông Bé năm 1978.",
         desc2: "Visiting wounded soldiers in Song Be Province, 1978."
     },
 
     {
-        img: "./public/images/page3/252.jpg",
+        img: "./public/images/page3/254.jpg",
         desc1: "Hội nghị Mẹ Việt Nam Anh hùng năm 1983.",
         desc2: "Conference of Vietnamese Heroic Mothers, 1983."
     },
 
     {
-        img: "./public/images/page3/253.jpg",
+        img: "./public/images/page3/255.jpg",
         desc1: "Trao tặng nhà tình thương cho hộ nghèo tại Củ Chi năm 2013.",
         desc2: "Charity house donation in Cu Chi, 2013."
     },
 
     {
-        img: "./public/images/page3/254.jpg",
+        img: "./public/images/page3/256.jpg",
         desc1: "Phụng dưỡng Mẹ Việt Nam Anh hùng nhân ngày 27/7.",
         desc2: "Lifelong support for Vietnamese Heroic Mothers on July 27."
     },
 
     {
-        img: "./public/images/page3/255.jpg",
+        img: "./public/images/page3/257.jpg",
         desc1: "Thăm hỏi công nhân tại công trường Bình Dương năm 2024.",
         desc2: "Visiting workers at Binh Duong construction site, 2024."
     },
 
     {
-        img: "./public/images/page3/256.jpg",
+        img: "./public/images/page3/258.jpg",
         desc1: "Tri ân trí thức Thành phố Hồ Chí Minh năm 2024.",
         desc2: "Honoring intellectuals of Ho Chi Minh City, 2024."
     },
 
     {
-        img: "./public/images/page3/257.jpg",
+        img: "./public/images/page3/259.jpg",
         desc1: "Lễ viếng Nghĩa trang Liệt sĩ tỉnh Bà Rịa – Vũng Tàu ngày 27/7/2024.",
         desc2: "Memorial at Ba Ria – Vung Tau Martyrs’ Cemetery, July 27, 2024."
     },
 
     {
-        img: "./public/images/page3/258.jpg",
+        img: "./public/images/page3/260.jpg",
         desc1: "Nhà ở đô thị Becamex Định Hòa, Thủ Dầu Một.",
         desc2: "Becamex urban housing in Dinh Hoa, Thu Dau Mot."
     },
 
     {
-        img: "./public/images/page3/259.jpg",
+        img: "./public/images/page3/600.jpg",
         desc1: "Chương trình hiến máu nhân đạo thu hút đông đảo người dân tham gia.",
         desc2: "Humanitarian blood donation program attracting large participation."
     },
 
     {
-        img: "./public/images/page3/260.jpg",
+        img: "./public/images/page3/262.jpg",
         desc1: "Chương trình “Xe thanh niên công nhân” hỗ trợ người lao động.",
         desc2: "Young Workers’ Bus program supporting workers."
     },
 
     {
-        img: "./public/images/page3/261.jpg",
+        img: "./public/images/page3/263.jpg",
         desc1: "Ngày Chủ nhật xanh.",
         desc2: "Green Sunday."
     },
 
     {
-        img: "./public/images/page3/262.jpg",
+        img: "./public/images/page3/264.jpg",
         desc1: "Chương trình góp đá xây Trường Sa.",
         desc2: "Contributing stones to build Truong Sa."
     },
@@ -331,19 +349,13 @@ window.datas.page3 = [
     },
 
     {
-        img: "./public/images/page3/263.jpg",
+        img: "./public/images/page3/265.jpg",
         desc1: "Trung tâm phục vụ hành chính công TP.HCM khai trương năm 2025.",
         desc2: "Ho Chi Minh City Public Administration Service Center inaugurated in 2025."
     },
 
     {
-        img: "./public/images/page3/264.jpg",
-        desc1: "Phương tiện giao thông trên đường phố.",
-        desc2: "Vehicles on city streets."
-    },
-
-    {
-        img: "./public/images/page3/265.jpg",
+        img: "./public/images/page3/300.jpg",
         desc1: "Buýt đường sông tại TP.HCM.",
         desc2: "Water bus in Ho Chi Minh City."
     },

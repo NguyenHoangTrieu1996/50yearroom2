@@ -122,18 +122,6 @@ window.datas.page2 = [
     },
 
     {
-        img: "./public/images/page2/69.jpg",
-        desc1: "Cao tốc TP.HCM - Long Thành - Dầu Giây là tuyến huyết mạch vùng kinh tế trọng điểm phía Nam.",
-        desc2: "HCMC – Long Thanh – Dau Giay Expressway is a key artery in the southern economic region."
-    },
-
-    {
-        img: "./public/images/page2/70.jpg",
-        desc1: "Trung tâm điều hành thông minh Bình Dương quản lý hạ tầng vùng.",
-        desc2: "Binh Duong IOC manages regional infrastructure."
-    },
-
-    {
         img: "./public/images/page2/71.jpg",
         desc1: "Sân bay Quốc tế Long Thành - Biểu tượng kết nối toàn cầu.",
         desc2: "Long Thanh International Airport – A symbol of global connectivity."

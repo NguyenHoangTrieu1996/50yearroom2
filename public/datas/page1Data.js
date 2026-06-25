@@ -77,13 +77,6 @@ window.datas.page1 = [
             "The ceremony announcing the commercialization of HF RFID chips and devices by the Ho Chi Minh City Semiconductor Research and Design Center (ICDREC), 2015."
     },
     {
-        img: "./public/images/page1/15.jpg",
-        desc1:
-            "Sản xuất linh kiện chính xác tại Khu công nghệ cao Thành phố Hồ Chí Minh. Ảnh: Đỗ Hữu Luận.",
-        desc2:
-            "Precision component manufacturing at the Ho Chi Minh Hi-Tech Park. Photo: Do Huu Luan."
-    },
-    {
         img: "./public/images/page1/16.jpg",
         desc1:
             "Trung tâm Công nghệ phần mềm Đại học Quốc gia. Ảnh: Nguyễn Minh Tân.",
@@ -222,11 +215,7 @@ window.datas.page1 = [
     <span class="lang lang-vi">Du lịch Biển</span>
     <span class="lang lang-eng hidden">Beach Tourism</span>`
     },
-    {
-        img: "./public/images/page1/41.jpg",
-        desc1: "Bà Rịa - Vũng Tàu - Điểm đến của những siêu du thuyền quốc tế.",
-        desc2: "Ba Ria - Vung Tau - A destination for international superyachts."
-    },
+ 
     {
         img: "./public/images/page1/42.jpg",
         desc1: "Du khách tàu Spectrum Of The Seas cập bến và tham quan du lịch tại tỉnh Bà Rịa - Vũng Tàu, ngày 27/02/2023.",
